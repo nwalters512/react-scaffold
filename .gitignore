@@ -1,0 +1,30 @@
+# OS generated files #
+######################
+# OS X
+.DS_Store*
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Temp files #
+##############
+*.temp
+
+# Node.js/npm #
+###############
+node_modules
+.npm
+.node_repl_history
+
+# Jest Coverage reports #
+#########################
+coverage
