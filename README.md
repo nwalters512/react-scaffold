@@ -15,7 +15,7 @@ Setup
 -----
 1. Install [Node.js](https://nodejs.org/) which includes [Node Package Manager](https://www.npmjs.org/)
 1. Install [gulp](https://github.com/gulpjs/gulp) by running `npm rm --global gulp && npm install --global gulp-cli`. This removes any version of `gulp` that was previously installed globally so it doesn't conflict with `gulp-cli`.
-1. Install all node dependencies by running `npm install`. This includes React, Babel, and a bunch of libraries for the tooling.
+1. Install all Node dependencies by running `npm install` in the project's root. These include React, Babel, and a bunch of libraries for the tooling.
 
 Running
 -------
